@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **nehak.ug21.ce@nitp.ac.in**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/1CSdfSxTfjdS41pWg1UFY9LguB4TIhf_a]
-- (https://drive.google.com/drive/folders/1CSdfSxTfjdS41pWg1UFY9LguB4TIhf_a)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ACVlfa4SS6FBs87EyHjzJBsmPzs6nnfA/view?usp=drive_link]
+- (https://drive.google.com/file/d/1ACVlfa4SS6FBs87EyHjzJBsmPzs6nnfA/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
