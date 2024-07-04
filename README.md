@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development and Data Analysis**
 
 - 📫 How to reach me **nehak.ug21.ce@nitp.ac.in**
 
