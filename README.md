@@ -1,7 +1,7 @@
 ![logo](https://github.com/Neha5679/Neha5679/blob/main/BANNER.png)
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A Passionate Frontend developer</h3>
-<h4 align="center">Currently,I started to explore Data Analysis and i found it intresting so i want to dive into it more </h4>
+<h4 align="center">"I've recently begun exploring data analysis and found it incredibly interesting, so I'm eager to delve deeper into it. </h4>
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" >
 
 
